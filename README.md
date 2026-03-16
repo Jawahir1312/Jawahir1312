@@ -10,19 +10,18 @@
 ## 👩‍💻 About Me
 - 🎓 Currently studying **Master of Software Engineering at University Malaya**
 - 💻 Graduated in **Bachelor of Information Technology (Hons) in Software Systems Development**
-- 🔎 Former **Quality Assurance Intern at Involve Asia**
 - 📱 Interested in **mobile apps, web systems, and software testing**
 - 🌍 Languages: **English, Arabic**
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,flutter,firebase,laravel,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,flutter,firebase,laravel,mysql" />
 </p>
 
 ## 📌 Featured Work
 - 🍽️ **Smart Inventory-Based Recipe and Meal Planning App**
 - 🧁 **Baker Cottage Food Ordering System**
-- ⚙️ **Automation scripts and API integration during QA internship**
+- ⚙️ **Automation scripts and API integration**
 
 ## ✨ A Fun Fact
 I enjoy building useful systems that solve everyday problems, especially projects related to food management and practical user needs.
