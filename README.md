@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jawahir Mohamud 👋</h1>
 
-<!--
-**Jawahir1312/Jawahir1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Master of Software Engineering student at <b>University Malaya</b><br>
+  Software developer interested in mobile development, web development, and software quality
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Currently studying **Master of Software Engineering at University Malaya**
+- 💻 Graduated in **Bachelor of Information Technology (Hons) in Software Systems Development**
+- 🔎 Former **Quality Assurance Intern at Involve Asia**
+- 📱 Interested in **mobile apps, web systems, and software testing**
+- 🌍 Languages: **English, Arabic**
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,flutter,firebase,laravel,mysql,git,github" />
+</p>
+
+## 📌 Featured Work
+- 🍽️ **Smart Inventory-Based Recipe and Meal Planning App**
+- 🧁 **Baker Cottage Food Ordering System**
+- ⚙️ **Automation scripts and API integration during QA internship**
+
+## ✨ A Fun Fact
+I enjoy building useful systems that solve everyday problems, especially projects related to food management and practical user needs.
+
+## 📫 Connect With Me
+- GitHub: [github.com/Jawahir1312](https://github.com/Jawahir1312)
+- Email: jawahir1312@gmail.com
