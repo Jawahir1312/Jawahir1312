@@ -26,6 +26,10 @@
 - 🧁 **Baker Cottage Food Ordering System**
 - ⚙️ **Automation scripts and API integration**
 
+## 🎯 My Expectations for This Course
+
+For this course, I hope to improve my practical skills in Django and framework-based development. I also want to learn how to design, test, and deploy better web applications through hands-on projects and collaboration.
+
 ## ✨ A Fun Fact
 I enjoy building useful systems that solve everyday problems, especially projects related to food management and practical user needs.
 
