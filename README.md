@@ -17,6 +17,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,flutter,firebase,laravel,mysql" />
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawahir1312&layout=compact" />
+</p>
 
 ## 📌 Featured Work
 - 🍽️ **Smart Inventory-Based Recipe and Meal Planning App**
